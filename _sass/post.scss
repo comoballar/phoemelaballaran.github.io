@@ -14,7 +14,7 @@ $paginate-padding: 13px;
 .post__paginate-right {
   position: relative;
   display: block;
-  width: 50%;
+  width: 60%;
 }
 
 .post__paginate-left {
@@ -77,6 +77,6 @@ $paginate-padding: 13px;
 @include media-query($on-laptop) {
   .post {
     min-width: 500px;
-    width: 50%;
+    width: 60%;
   }
 }
