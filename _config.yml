@@ -10,7 +10,7 @@ desc: >
   I’m a designer-engineer who aims to contribute in humanizing technology, especially when it comes to the usage of data.
   
 # posts
-date_format: "%Y"
+date_format: "%b %Y"
 post_title: Article
 post_date: Year
 post_cat: Category
