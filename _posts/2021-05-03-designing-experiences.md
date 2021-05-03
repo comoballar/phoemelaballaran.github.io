@@ -5,6 +5,14 @@ author: Phoemela Ballaran
 category: Design
 img: https://phoemelaballaran.github.io/assets/sample/designing-experiences.jpeg
 ---
+<br/><br/>
+<p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/designing-experiences.jpeg"/></p>
+<br/>
+<blockquote><i>
+  "That’s the power of good design, it elevates us."<br>
+  — Jerry Seinfeld expressing his reverence for a 1969 Maserati Mistral in his show Comedians in Cars Getting Coffee.
+  </i></blockquote>
+<br/><br/>
 
 Without being consciously aware of it, I have been designing experiences for some time now.
 
