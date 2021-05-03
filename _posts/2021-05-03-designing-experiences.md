@@ -24,4 +24,4 @@ One of the interesting areas of inquiry in designing experiences for web and mob
 
 It would be a worthy challenge to be given the chance to design meaningful experiences for end users, as I find that this effort involves application of combined concepts from different fields like human-computer interaction, psychology, information architecture, cybernetics, even sociology and philosophy.
 
-At an event where Apple launched iPad 2, Steve Jobs summed up the company’s credo with these words: “It is in Apple’s DNA that technology alone is not enough—it’s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing.” And with the world’s current state, don’t we need it now more than ever to have many hearts singing?
+At an event where Apple launched iPad 2, Steve Jobs summed up the company’s credo with these words: “It is in Apple’s DNA that technology alone is not enough—it’s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing.” And with the world’s current state, don’t we need it now more than ever to have many hearts singing? 
