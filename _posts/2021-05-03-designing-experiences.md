@@ -21,7 +21,7 @@ img: https://phoemelaballaran.github.io/assets/sample/designing-experiences.jpeg
 <p align="center"><img title="Ladybird (2017)" src="https://phoemelaballaran.github.io/assets/sample/lady-bird.png"/></p>
 <p align="center"><i>Lady Bird (2017)</i></p>
 <br/>
-<p>It’s a worthy challenge to design meaningful digital experiences for people, as I find that this effort involves application of combined concepts from different fields like human-computer interaction, psychology, information architecture, cybernetics, even sociology and philosophy. Steve Jobs said it best when he summed up Apple’s credo with these words: <i>“It is in Apple’s DNA that technology alone is not enough—it’s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing.”</i></p>
+<p>It’s a worthy challenge to design meaningful digital experiences for people, as I find that this effort involves application of combined concepts from different fields like human-computer interaction, psychology, information architecture, cybernetics, even sociology and philosophy. This thought is captured by Steve Jobs' words when he summed up Apple’s credo: <i>“It is in Apple’s DNA that technology alone is not enough—it’s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing.”</i></p>
 <p>And with the world’s current state, don’t we need it now more than ever to have many hearts singing?</p>
 <br/>
 <br/>
