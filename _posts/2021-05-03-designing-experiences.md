@@ -29,3 +29,4 @@ img: https://phoemelaballaran.github.io/assets/sample/designing-experiences.jpeg
 <p><a href="https://are.na" target="_blank">Are.na ↗</a></p>
 <p><a href="https://makespace.fun" target="_blank">MakeSpace ↗</a></p>
 <p><a href="https://mymind.com" target="_blank">mymind ↗</a></p>
+<p><a href="https://www.notion.so" target="_blank">Notion ↗</a></p>
