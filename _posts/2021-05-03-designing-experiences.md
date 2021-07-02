@@ -25,8 +25,7 @@ img: https://phoemelaballaran.github.io/assets/sample/designing-experiences.jpeg
 <p>And with the world’s current state, don’t we need it now more than ever to have many hearts singing?</p>
 <br/>
 <br/>
-<p><i>Tools for Thought that interest me:</i></p>
+<p><i>Tools for Thought that I like:</i></p>
 <p><a href="https://are.na" target="_blank">Are.na ↗</a></p>
-<p><a href="https://makespace.fun" target="_blank">MakeSpace ↗</a></p>
 <p><a href="https://mymind.com" target="_blank">mymind ↗</a></p>
 <p><a href="https://www.notion.so" target="_blank">Notion ↗</a></p>
