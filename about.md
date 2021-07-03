@@ -8,7 +8,7 @@ permalink: /about/
 <p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/page/about/portrait.jpeg"/></p>
 <br>
 
-This is a test.
+I’m a designer-engineer with an interest in humanizing technology, especially when it comes to the usage of data. Currently, I work as a data analyst at the data insighting unit of <a href="https://www.rappler.com" target="_blank">Rappler</a>.
 
 <br>✶ Other Places ✶
 <br><a href="https://www.theywill.dance" target="_blank" style="text-decoration: none;">theywill.dance ➜</a>
