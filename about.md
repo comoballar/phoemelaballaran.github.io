@@ -4,9 +4,9 @@ title:  About
 permalink: /about/
 ---
 
-<br/><br/>
-<p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/page/about/about.jpgdesigning-experiences.jpeg"/></p>
-<br/>
+<br><br>
+<p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/page/about/about.jpg"/></p>
+<br>
 
 This is a test.
 
