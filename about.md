@@ -15,6 +15,3 @@ I’m a designer-engineer with an interest in humanizing technology, especially 
 <br><a href="https://github.com/phoemelaballaran" target="_blank" style="text-decoration: none;">Github ➜</a>
 <br><a href="https://instagram.com/phoemelaballaran" target="_blank" style="text-decoration: none;">Instagram ➜</a>
 <br><a href="https://www.linkedin.com/in/phoemela-ballaran/" target="_blank" style="text-decoration: none;">LinkedIn ➜</a>
-<br>
-<br>
-<a href="https://phoemelaballaran.github.io/">Go home</a>
