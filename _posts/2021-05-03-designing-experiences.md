@@ -24,7 +24,7 @@ img: https://phoemelaballaran.github.io/assets/sample/post/2021-05-03-designing-
 <p>It’s a worthy challenge to design meaningful digital experiences for people, as I find that this effort involves application of combined concepts from different fields like human-computer interaction, psychology, information architecture, cybernetics, even sociology and philosophy. This thought is captured by Steve Jobs' words when he summed up Apple’s credo (them following it in a moralistic sense and beyond the aesthetic is a topic for another time): <i>“It is in Apple’s DNA that technology alone is not enough——it’s technology married with liberal arts, married with the humanities, that yields us the results that make our heart sing.”</i></p>
 <p>And with the world’s current state, don’t we need it now more than ever to have many hearts singing?</p>
 <br>
-<p>* Lifted from a <a href="https://mobile.twitter.com/_adamwiggins_/status/1388944165090865161" target="_blank">tweet by Adam Wiggins</a></p>
+<p>* Lifted from a <a href="https://mobile.twitter.com/_adamwiggins_/status/1388944165090865161" target="_blank">tweet</a> by Adam Wiggins</p>
 <br>
 <br>
 <br>✶ Tools for thought that interest me ✶
