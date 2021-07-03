@@ -30,5 +30,4 @@ img: https://phoemelaballaran.github.io/assets/sample/post/2021-05-03-designing-
 <br><a href="https://mymind.com" target="_blank" style="text-decoration: none;">mymind ➜</a>
 <br><a href="https://www.notion.so" target="_blank" style="text-decoration: none;">Notion ➜</a>
 <br>
-<br>
-* Lifted from a <a href="https://mobile.twitter.com/_adamwiggins_/status/1388944165090865161" target="_blank">tweet by Adam Wiggins</a>
+<p>* Lifted from a <a href="https://mobile.twitter.com/_adamwiggins_/status/1388944165090865161" target="_blank">tweet by Adam Wiggins</a></p>
