@@ -17,4 +17,4 @@ This is a test.
 <br><a href="https://www.linkedin.com/in/phoemela-ballaran/" target="_blank" style="text-decoration: none;">LinkedIn ➜</a>
 <br>
 <br>
-<a href="{{ site.url }}{{ "/" | relative_url }}">Go home</a>
+<a href="https://phoemelaballaran.github.io/">Go home</a>
