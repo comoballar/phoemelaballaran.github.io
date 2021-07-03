@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title:  About
-permalink: /about
+permalink: /about/
 ---
 
 This is a test.
