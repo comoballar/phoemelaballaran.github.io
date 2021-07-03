@@ -7,7 +7,7 @@ permalink: /about/
 This is a test.
 
 <br>✸ Other Places ✸
-<br><a href="https://www.theywill.dance" target="_blank">theywill.dance ↗</a>
-<br><a href="https://github.com/phoemelaballaran" target="_blank">Github ↗</a>
-<br><a href="https://instagram.com/phoemelaballaran" target="_blank">Instagram ↗</a>
-<br><a href="https://www.linkedin.com/in/phoemela-ballaran/" target="_blank">LinkedIn ↗</a>
+<br><a href="https://www.theywill.dance" target="_blank">theywill.dance ➜</a>
+<br><a href="https://github.com/phoemelaballaran" target="_blank">Github ➜</a>
+<br><a href="https://instagram.com/phoemelaballaran" target="_blank">Instagram ➜</a>
+<br><a href="https://www.linkedin.com/in/phoemela-ballaran/" target="_blank">LinkedIn ➜</a>
