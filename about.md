@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <br><br>
-<p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/page/about/about.jpeg"/></p>
+<p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/page/about/portrait.jpeg"/></p>
 <br>
 
 This is a test.
