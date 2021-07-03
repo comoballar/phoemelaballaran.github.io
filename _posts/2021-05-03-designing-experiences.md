@@ -26,6 +26,6 @@ img: https://phoemelaballaran.github.io/assets/sample/designing-experiences.jpeg
 <br/>
 <br/>
 <br>✶ Tools for thought that interest me ✶
-<br><a href="https://are.na" target="_blank" style="text-decoration: none;">Are.na ↗</a>
-<br><a href="https://mymind.com" target="_blank" style="text-decoration: none;">mymind ↗</a>
-<br><a href="https://www.notion.so" target="_blank" style="text-decoration: none;">Notion ↗</a>
+<br><a href="https://are.na" target="_blank" style="text-decoration: none;">Are.na ➜</a>
+<br><a href="https://mymind.com" target="_blank" style="text-decoration: none;">mymind ➜</a>
+<br><a href="https://www.notion.so" target="_blank" style="text-decoration: none;">Notion ➜</a>
