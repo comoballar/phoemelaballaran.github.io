@@ -27,7 +27,7 @@ img: https://phoemelaballaran.github.io/assets/sample/post/2021-05-03-designing-
 <p>* Lifted from a <a href="https://mobile.twitter.com/_adamwiggins_/status/1388944165090865161" target="_blank">tweet</a> by Adam Wiggins</p>
 <br>
 <br>
-<br>✶ Tools for thought that interest me ✶<br/>
+<br>⚘ Tools for thought that interest me ⚘<br/>
 <br><a href="https://are.na" target="_blank" style="text-decoration: none;">Are.na ➜</a>
 <br><a href="https://mymind.com" target="_blank" style="text-decoration: none;">mymind ➜</a>
 <br><a href="https://www.notion.so" target="_blank" style="text-decoration: none;">Notion ➜</a>
