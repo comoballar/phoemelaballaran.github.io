@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  That’s the power of good design, it elevates us.
+title:  Test project
 author: Phoemela Ballaran
 category: Design
 img: https://phoemelaballaran.github.io/assets/sample/post/2021-05-03-designing-experiences/cover.jpeg
