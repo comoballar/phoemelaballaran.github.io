@@ -11,7 +11,7 @@ desc: >
   
 # posts
 date_format: "%Y"
-post_title: Article
+post_title: Post
 post_date: Year
 post_cat: Category
 
