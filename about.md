@@ -9,7 +9,7 @@ permalink: /about/
 <br>
 
 I’m a designer-engineer with an interest in humanizing technology, especially when it comes to the usage of data. Currently, I work as a data analyst at the data insighting unit of <a href="https://www.rappler.com" target="_blank">Rappler</a>, a digital media company in the Philippines.
-<br>
+<br><br>
 <br>⚘ Other Places ⚘<br>
 <br><a href="https://www.theywill.dance" target="_blank" style="text-decoration: none;">theywill.dance ➜</a>
 <br><a href="https://github.com/phoemelaballaran" target="_blank" style="text-decoration: none;">Github ➜</a>
