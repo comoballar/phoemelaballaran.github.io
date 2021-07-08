@@ -14,4 +14,5 @@ I’m a designer-engineer with an interest in humanizing technology, especially 
 <br><a href="https://www.theywill.dance" target="_blank" style="text-decoration: none;">theywill.dance ➜</a>
 <br><a href="https://github.com/phoemelaballaran" target="_blank" style="text-decoration: none;">Github ➜</a>
 <br><a href="https://instagram.com/phoemelaballaran" target="_blank" style="text-decoration: none;">Instagram ➜</a>
+<br><a href="https://twitter.com/theywill_dance" target="_blank" style="text-decoration: none;">Twitter ➜</a>
 <br><a href="https://www.linkedin.com/in/phoemela-ballaran/" target="_blank" style="text-decoration: none;">LinkedIn ➜</a>
