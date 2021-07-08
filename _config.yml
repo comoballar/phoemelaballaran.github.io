@@ -18,6 +18,10 @@ post_cat: Category
 # post detail
 prev-next: true
 
+#projects
+collections:
+  - projects
+
 # build settings
 markdown: kramdown
 # theme: louie
