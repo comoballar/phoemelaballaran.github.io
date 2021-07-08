@@ -2,8 +2,8 @@ $on-palm:           600px !default;
 $on-laptop:         800px !default;
 
 // typography
-@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
-$inconsolata:       'Inconsolata', monospace;
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,700');
+$robotomono:       'Roboto Mono', monospace;
 $font__size:        16px;
 $font__weight:      400;
 $font__line-height: 1.5;
@@ -61,7 +61,7 @@ body {
   margin: 25px 0;
   padding: 0;
   background: $color__beige;
-  font-family: $inconsolata;
+  font-family: $robotomono;
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
