@@ -18,6 +18,9 @@ post_cat: Tag
 # post detail
 prev-next: true
 
+collections:
+  - projects
+
 # projects
 date_format: "%Y"
 project_title: Project
