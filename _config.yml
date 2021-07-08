@@ -18,9 +18,11 @@ post_cat: Tag
 # post detail
 prev-next: true
 
-#projects
-collections:
-  - projects
+# projects
+date_format: "%Y"
+project_title: Project
+project_date: Year
+project_cat: Tag
 
 # build settings
 markdown: kramdown
