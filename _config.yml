@@ -13,7 +13,7 @@ desc: >
 date_format: "%Y"
 post_title: Post
 post_date: Year
-post_cat: Category
+post_cat: Tag
 
 # post detail
 prev-next: true
