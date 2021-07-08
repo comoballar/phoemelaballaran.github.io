@@ -20,7 +20,9 @@ prev-next: true
 
 #projects
 collections:
-  - projects
+  projects:
+    output: true
+    permalink: /:collection/:title
 
 # build settings
 markdown: kramdown
