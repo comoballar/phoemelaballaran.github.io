@@ -26,4 +26,4 @@ permalink: /resume/
 <br>
 <br>BS Electronics Engineering
 <br><a href="https://plm.edu.ph" target="_blank">University of the City of Manila</a>
-<br>2009 ➜ 2015
+<br>June 2009 ➜ March 2015
