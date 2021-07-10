@@ -7,7 +7,7 @@ permalink: /about/
 <br><br>
 <p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/page/about/portrait.jpeg"/></p>
 <br>
-I’m a designer-engineer interested in finding out what it means to "humanize technology", especially when it comes to the usage of data. Currently, I spend my time and mental resources as a data analyst at the data insighting unit of <a href="https://www.rappler.com" target="_blank">Rappler</a>, a digital media company in the Philippines. This web place is the space where I make sense of the things I'm interested in (design, psychology, art, programming, philosophy, mysticism, physical and biological sciences), in relation to what I do for a living. Or just how I'd like to live.
+I’m a designer-engineer actively in search of what it means to "humanize technology", especially when it comes to the usage of data. Currently, I spend my time and mental resources as a data analyst at the data insighting unit of <a href="https://www.rappler.com" target="_blank">Rappler</a>, a digital media company in the Philippines. This web place is the space where I make sense of the things I'm interested in (design, psychology, art, programming, philosophy, mysticism, physical and biological sciences), in relation to what I do for a living. Or just how I'd like to live.
 <br><br>✉️ phoemelaballaran@gmail.com<br><br>
 <br>⚘ Other Places ⚘<br>
 <br><a href="https://www.theywill.dance" target="_blank" style="text-decoration: none;">theywill.dance ➜</a>
