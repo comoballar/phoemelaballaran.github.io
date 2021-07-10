@@ -17,7 +17,7 @@ permalink: /resume/
 <br>
 <br>Junior Graphic Designer at <a href="https://moonlists.com" target="_blank">Moon Lists</a>
 <br>California, USA
-<br>January 2020 ➜ April 2020
+<br>January 2021 ➜ April 2021
 <br>
 <br>Project Development Officer at <a href="https://phl-microsat.upd.edu.ph" target="_blank">PHL-Microsat</a>
 <br>Quezon City, Philippines
