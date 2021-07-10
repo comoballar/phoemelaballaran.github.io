@@ -3,8 +3,7 @@ layout: page
 title:  Resumé
 permalink: /resume/
 ---
-
-✷ DATA ✷
+<br>✷ DATA ✷
 <br>
 <br>Data Analyst at <a href="https://www.rappler.com" target="_blank">Rappler</a>
 <br>June 2021 ➜ Present
