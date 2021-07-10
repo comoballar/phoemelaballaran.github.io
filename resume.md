@@ -4,16 +4,16 @@ title:  Resumé
 permalink: /resume/
 ---
 
-DATA
-<br><br>
+✷ DATA ✷
+<br>
 <br>Data Analyst at <a href="https://www.rappler.com" target="_blank">Rappler</a>
 <br>June 2021 ➜ Present
 <br>
 <br>Data Engineer at <a href="https://pointwest.com.ph" target="_blank">Pointwest</a>
 <br>November 2018 ➜ September 2020
 <br><br><br>
-WRITING AND/OR DESIGN
-<br><br>
+✷ WRITING AND/OR DESIGN ✷
+<br>
 <br>Junior Graphic Designer at <a href="https://moonlists.com" target="_blank">Moon Lists</a>
 <br>January 2020 ➜ April 2020
 <br>
@@ -23,8 +23,8 @@ WRITING AND/OR DESIGN
 <br>Technical Support Engineer at <a href="https://www.emerson.com" target="_blank">Emerson</a>
 <br>February 2017 ➜ June 2017
 <br><br><br>
-EDUCATION
-<br><br>
+✷ EDUCATION ✷
+<br>
 <br>BS Electronics Engineering
 <br><a href="https://plm.edu.ph" target="_blank">University of the City of Manila</a>
 <br>2009 ➜ 2015
