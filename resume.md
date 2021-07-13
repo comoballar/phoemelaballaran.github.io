@@ -19,11 +19,11 @@ permalink: /resume/
 <br>California, USA
 <br>January 2021 ➜ April 2021
 <br>
-<br>Project Development Officer at <a href="https://phl-microsat.upd.edu.ph" target="_blank">PHL-Microsat</a>
+<br>Information Officer at <a href="https://phl-microsat.upd.edu.ph" target="_blank">PHL-Microsat</a>
 <br>Quezon City, Philippines
 <br>June 2017 ➜ October 2017
 <br>
-<br>Technical Support Engineer at <a href="https://www.emerson.com" target="_blank">Emerson</a>
+<br>Technical Writer at <a href="https://www.emerson.com" target="_blank">Emerson</a>
 <br>Quezon City, Philippines
 <br>February 2017 ➜ June 2017
 <br><br><br>
