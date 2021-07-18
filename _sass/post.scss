@@ -73,6 +73,24 @@ $paginate-padding: 13px;
   }
 }
 
+.post__home {
+  padding-bottom: 10px;
+
+  pre {
+    background: $color__gray;
+    padding: 10px 20px;
+  }
+
+  code {
+    background: $color__gray;
+    font-size: 12px;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
 // media queries
 @include media-query($on-laptop) {
   .post {
