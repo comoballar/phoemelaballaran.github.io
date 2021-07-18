@@ -8,6 +8,13 @@ $font__size:        14px;
 $font__weight:      400;
 $font__line-height: 2;
 
+@font-face {
+font-family: "Garamond";
+src: url("https://phoemelaballaran.github.io/assets/webfontkit/applegaramond-webfont.eot");
+src: url("https://phoemelaballaran.github.io/assets/webfontkit/applegaramond-webfont.woff") format("woff"),
+url("https://phoemelaballaran.github.io/assets/webfontkit/applegaramond-webfont.svg") format("svg");
+}
+
 // colors
 $color__black:      #000000;
 $color__gray:       #000000;
