@@ -9,12 +9,10 @@ $font__weight:      400;
 $font__line-height: 2;
 
 @font-face {
-    font-family: 'Garamond';
-    src: url('applegaramond-webfont.eot');
-    src: url('https://phoemelaballaran.github.io/assets/webfontkit/applegaramond-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://phoemelaballaran.github.io/assets/webfontkit/applegaramond-webfont.woff') format('woff'),
-         url('https://phoemelaballaran.github.io/assets/webfontkit/applegaramond-webfont.svg#apple_garamondregular') format('svg');
-    font-weight: normal;
+    font-family: 'Apple Garamond';
+    src: url('https://phoemelaballaran.github.io/assets/webfont/AppleGaramondLight.woff2') format('woff2'),
+        url('https://phoemelaballaran.github.io/assets/webfont/AppleGaramondLight.woff') format('woff');
+    font-weight: 300;
     font-style: normal;
 }
 
