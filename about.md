@@ -3,8 +3,7 @@ layout: page
 title:  About
 permalink: /about/
 ---
-
-<br><br>
+<br>
 <h1>I’m actively in search of what it means to ✺humanize technology✺ especially when it comes to the usage of data.</h1>
 <br>
 <p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/page/about/about.png"/></p>
