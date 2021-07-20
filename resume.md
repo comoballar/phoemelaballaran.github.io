@@ -3,7 +3,7 @@ layout: page
 title:  Resumé
 permalink: /resume/
 ---
-<br>✷ DATA ✷
+<h1>Data</h1>
 <br>
 <br>Data Analyst at <a href="https://www.rappler.com" target="_blank">Rappler</a>
 <br>Pasig City, Philippines
@@ -13,7 +13,7 @@ permalink: /resume/
 <br>Quezon City, Philippines
 <br>November 2018 ➜ September 2020
 <br><br><br>
-✷ WRITING AND/OR DESIGN ✷
+<h1>Writing and/or Design</h1>
 <br>
 <br>Junior Graphic Designer at <a href="https://moonlists.com" target="_blank">Moon Lists</a>
 <br>California, USA
@@ -27,7 +27,7 @@ permalink: /resume/
 <br>Quezon City, Philippines
 <br>February 2017 ➜ June 2017
 <br><br><br>
-✷ EDUCATION ✷
+<h1>Education</h1>
 <br>
 <br>BS Electronics Engineering
 <br><a href="https://plm.edu.ph" target="_blank">University of the City of Manila</a>
