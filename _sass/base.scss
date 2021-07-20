@@ -55,8 +55,9 @@ $color__yellow:     #EAEAEA;
 }
 
 hr {
-  color: $color__black;
-  background-color: $color__black;
+    color: $color__black;
+    background-color: $color__black;
+    padding: 0;
 }
 
 h1 {
