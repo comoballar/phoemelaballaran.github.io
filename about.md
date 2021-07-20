@@ -14,7 +14,7 @@ permalink: /about/
 <br>💼 <a href="https://phoemelaballaran.github.io/resume/">resumé</a>
 <br><br>
 <br>⚘ Other Places ⚘<br>
-<br><a href="https://www.theywill.dance" target="_blank" style="text-decoration: none;">theywill.dance &#x1F517;</a>
+<br><a href="https://www.theywill.dance" target="_blank" style="text-decoration: none;">theywill.dance &#x1F517\00FE0E;</a>
 <br><a href="https://github.com/phoemelaballaran" target="_blank" style="text-decoration: none;">Github ↗</a>
 <br><a href="https://instagram.com/phoemelaballaran" target="_blank" style="text-decoration: none;">Instagram ↗</a>
 <br><a href="https://twitter.com/theywill_dance" target="_blank" style="text-decoration: none;">Twitter ↗</a>
