@@ -56,6 +56,13 @@ hr {
   background-color: $color__black;
 }
 
+h1 {
+  font-family: 'Apple Garamond';
+  font-size: 20px;
+  font-weight: normal;
+  line-height: $font__line-height;
+}
+
 a {
   // display: block;
   // width: 100%;
