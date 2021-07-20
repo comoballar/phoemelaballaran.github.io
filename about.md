@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <br><br>
-<p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/page/about/about.jpg"/></p>
+<p align="center"><img src="https://phoemelaballaran.github.io/assets/sample/page/about/about.png"/></p>
 <br>
 <p>I’m actively in search of what it means to "humanize technology", especially when it comes to the usage of data. Currently, I spend my time and mental resources on acquiring and analyzing data for the data insighting unit of <a href="https://www.rappler.com" target="_blank">Rappler</a>, a digital media company in the Philippines.</p>
 <br>
