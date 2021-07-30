@@ -30,4 +30,4 @@ BS Electronics Engineering
 <br><a href="https://plm.edu.ph" target="_blank">University of the City of Manila</a>
 <br>June 2009 to March 2015
 <br><br>
-<br>I'm also at <a href="https://read.cv/phoemelaballaran" target="_blank">read.cv</a>.
+<br>I'm also on <a href="https://read.cv/phoemelaballaran" target="_blank">read.cv</a>.
