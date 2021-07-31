@@ -68,12 +68,12 @@ $paginate-padding: 13px;
     font-size: 12px;
   }
 
-  img_small {
+  img small {
     max-width: 70%;
     border: 1px solid #262626;
   }
   
-  img_large {
+  img large {
     max-width: 100%;
   }
 }
@@ -93,6 +93,7 @@ $paginate-padding: 13px;
 
   img {
     max-width: 50%;
+    border: 1px solid #262626;
   }
 }
 
